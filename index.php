@@ -85,6 +85,9 @@
               <a class="nav-link" href="#section-leistungen">Leistungen</a>
             </li>
             <li class="nav-item">
+              <a class="nav-link" href="#section-impressionen">Impressionen</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link" href="#section-kontakt">Kontakt</a>
             </li>
           </ul>
@@ -164,6 +167,8 @@
         </div>
       </div>
     </section>
+
+    
 
     <!-- CONTAINER TEAM -->
     <section
@@ -393,13 +398,23 @@
       </div>
     </section>
 
+    <!-- SECTION IMPRESSIONEN -->
+    <section class="pb_section bg-dark" id="section-impressionen">
+      <div class="container">
+        <h2 class="mt-0 heading-border-top mb-3 font-weight-normal text-white">Impressionen</h2>
+        <div class="row">  
+          <?php include("impressionen.php"); ?>
+        </div>
+      </div>
+    </section>
+
     <!-- CONTAINER GALERIE -->
     <section class="pb_section">
       <div class="multiple-items pb_slide_v1">
         <div>
-          <a href="assets/images/gallery/restaurierung_porsche_365/gallery_000.jpg" class="link-block" data-toggle="lightbox" data-gallery="gallery-porsche-365">
-            <img src="assets/images/gallery/restaurierung_porsche_365/gallery_000.jpg" alt="" class="img-fluid" />
-            <div data-toggle="lightbox" data-gallery="gallery-porsche-365" data-remote="assets/images/gallery/restaurierung_porsche_365/gallery_000.jpg"></div>
+          <a href="assets/images/galleries/restaurierung_porsche_365/gallery_000.jpg" class="link-block" data-toggle="lightbox" data-gallery="gallery-porsche-365">
+            <img src="assets/images/galleries/restaurierung_porsche_365/gallery_000.jpg" alt="" class="img-fluid" />
+            <div data-toggle="lightbox" data-gallery="gallery-porsche-365" data-remote="assets/images/galleries/restaurierung_porsche_365/gallery_000.jpg"></div>
             <div class="slide-text">
               <h2 class="labeled-black">Restaurierung Porsche 356</h2>
               <p>Galerie öffnen</p>
@@ -407,11 +422,11 @@
           </a>
         </div>
         <div>
-            <a href="assets/images/gallery/restaurierung_vw_t2/gallery_001.jpg" class="link-block" data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2">
-              <img src="assets/images/gallery/restaurierung_vw_t2/gallery_001.jpg" alt="" class="img-fluid" />
-              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/gallery/restaurierung_vw_t2/gallery_000.jpg"></div>
-              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/gallery/restaurierung_vw_t2/gallery_002.jpg"></div>
-              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/gallery/restaurierung_vw_t2/gallery_003.jpg"></div>
+            <a href="assets/images/galleries/restaurierung_vw_t2/gallery_001.jpg" class="link-block" data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2">
+              <img src="assets/images/galleries/restaurierung_vw_t2/gallery_001.jpg" alt="" class="img-fluid" />
+              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/galleries/restaurierung_vw_t2/gallery_000.jpg"></div>
+              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/galleries/restaurierung_vw_t2/gallery_002.jpg"></div>
+              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/galleries/restaurierung_vw_t2/gallery_003.jpg"></div>
               <div class="slide-text">
                 <h2 class="labeled-black">Restaurierung VW T2 Bus</h2>
                 <p>Galerie öffnen</p>
@@ -419,21 +434,21 @@
             </a>
         </div>
         <div>
-            <a href="assets/images/gallery/lackierung_porsche_targa/gallery_000.jpg" class="link-block" data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2">
-              <img src="assets/images/gallery/lackierung_porsche_targa/gallery_000.jpg" alt="" class="img-fluid" />
-              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/gallery/lackierung_porsche_targa/gallery_001.jpg"></div>
-              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/gallery/lackierung_porsche_targa/gallery_002.jpg"></div>
-              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/gallery/lackierung_porsche_targa/gallery_003.jpg"></div>
-              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/gallery/lackierung_porsche_targa/gallery_004.jpg"></div>
-              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/gallery/lackierung_porsche_targa/gallery_005.jpg"></div>
-              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/gallery/lackierung_porsche_targa/gallery_006.jpg"></div>
-              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/gallery/lackierung_porsche_targa/gallery_007.jpg"></div>
-              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/gallery/lackierung_porsche_targa/gallery_008.jpg"></div>
-              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/gallery/lackierung_porsche_targa/gallery_009.jpg"></div>
-              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/gallery/lackierung_porsche_targa/gallery_010.jpg"></div>
-              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/gallery/lackierung_porsche_targa/gallery_011.jpg"></div>
-              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/gallery/lackierung_porsche_targa/gallery_012.jpg"></div>
-              <div data-toggle="lightbox" data-gallery="gallery-restaurierung-vw-t2" data-remote="assets/images/gallery/lackierung_porsche_targa/gallery_013.jpg"></div>
+            <a href="assets/images/galleries/lackierung_porsche_targa/gallery_000.jpg" class="link-block" data-toggle="lightbox" data-gallery="gallery-porsche-targa">
+              <img src="assets/images/galleries/lackierung_porsche_targa/gallery_000.jpg" alt="" class="img-fluid" />
+              <div data-toggle="lightbox" data-gallery="gallery-porsche-targa" data-remote="assets/images/galleries/lackierung_porsche_targa/gallery_001.jpg"></div>
+              <div data-toggle="lightbox" data-gallery="gallery-porsche-targa" data-remote="assets/images/galleries/lackierung_porsche_targa/gallery_002.jpg"></div>
+              <div data-toggle="lightbox" data-gallery="gallery-porsche-targa" data-remote="assets/images/galleries/lackierung_porsche_targa/gallery_003.jpg"></div>
+              <div data-toggle="lightbox" data-gallery="gallery-porsche-targa" data-remote="assets/images/galleries/lackierung_porsche_targa/gallery_004.jpg"></div>
+              <div data-toggle="lightbox" data-gallery="gallery-porsche-targa" data-remote="assets/images/galleries/lackierung_porsche_targa/gallery_005.jpg"></div>
+              <div data-toggle="lightbox" data-gallery="gallery-porsche-targa" data-remote="assets/images/galleries/lackierung_porsche_targa/gallery_006.jpg"></div>
+              <div data-toggle="lightbox" data-gallery="gallery-porsche-targa" data-remote="assets/images/galleries/lackierung_porsche_targa/gallery_007.jpg"></div>
+              <div data-toggle="lightbox" data-gallery="gallery-porsche-targa" data-remote="assets/images/galleries/lackierung_porsche_targa/gallery_008.jpg"></div>
+              <div data-toggle="lightbox" data-gallery="gallery-porsche-targa" data-remote="assets/images/galleries/lackierung_porsche_targa/gallery_009.jpg"></div>
+              <div data-toggle="lightbox" data-gallery="gallery-porsche-targa" data-remote="assets/images/galleries/lackierung_porsche_targa/gallery_010.jpg"></div>
+              <div data-toggle="lightbox" data-gallery="gallery-porsche-targa" data-remote="assets/images/galleries/lackierung_porsche_targa/gallery_011.jpg"></div>
+              <div data-toggle="lightbox" data-gallery="gallery-porsche-targa" data-remote="assets/images/galleries/lackierung_porsche_targa/gallery_012.jpg"></div>
+              <div data-toggle="lightbox" data-gallery="gallery-porsche-targa" data-remote="assets/images/galleries/lackierung_porsche_targa/gallery_013.jpg"></div>
               <div class="slide-text">
                 <h2 class="labeled-black">Restaurierung Porsche 356</h2>
                 <p>Galerie öffnen</p>
