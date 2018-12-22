@@ -130,45 +130,27 @@
               und Blech auf eine dynamische und erfolgreiche Entwicklung zurück
               und stellt die Weichen für die Zukunft. Am heutigen Firmensitz an
               der Otto-Schott-Straße 3 in Kempen steht unter der Leitung von
-              Firmengründer Guido Wagner ein 13-köpfiger, qualifizierter und
-              motivierter Mitarbeiterstamm bereit, um dem Kunden einen
-              erstklassigen Service bieten zu können.
+              Firmengründer Guido Wagner ein 13-köpfiger Mitarbeiterstamm bereit, 
+              um dem Kunden einen erstklassigen Service bieten zu können.
             </p>
             <p>
               Neben der personellen Ausstattung wurde bei Lack und Blech seit
               jeher ein Schwerpunkt auf den Einsatz neuer Techniken und modernen
-              Equipments gesetzt. Beim Einsatz innovativer Technologien und
-              Ausrüstung - ob Rahmenrichtbank, lasergesteuerte Anlage zur
-              Achsvermessung, Schweißwerkstatt oder Klimaanlagenwartung - steht
-              für Lack und Blech immer der Nutzen für den Kunden sowie die
-              Qualität im Mittelpunkt. Heute ist Lack und Blech im Umkreis
-              Kempen der einzige Fachbetrieb, der über drei Lackmischbänke
-              verschiedener Hersteller verfügt. Für den Kunden bedeutet dies,
-              dass bei der Fahrzeuglackierung auf kostspielige Farbangleichungen
-              ohne Qualitätseinbußen verzichtet werden kann und hierdurch die
-              durchschnittliche Fahrzeugstandzeit im Vergleich zum Wettbewerb
-              deutlich kürzer ausfällt.
+              Equipments gesetzt. 
+              <strong>Dieses Equipment ist gerade bei dem Fokus auf der Reparatur und Restaurierung
+              von klassischen und modernen Fahrzeugen der Firma Porsche unabdingbar.</strong>
             </p>
             <p>
               Als erfolgreicher und ISO 9001-zertifizierter Dienstleister
               kooperiert Lack und Blech bereits seit vielen Jahren mit namhaften
               Partnern des Handels, der Industrie und des Versicherungswesens
               und bietet hierdurch umfassende Leistungen für seine Kunden und
-              Partner an. Den in den letzten beiden Jahrzehnten immer höher
-              werdenden Anforderungen des Umweltschutzes hat Lack und Blech
-              schon lange vor der Wirksamkeit gesetzlicher Auflagen durch den
-              Einsatz von z.B. Wasserbasislacken Rechnung getragen. Mit seinem
-              erfahrenen und ständig weitergeschulten Team wird Lack und Blech
-              auch zukünftig Ihr kompetenter und leistungsfähiger
-              Ansprechpartner rund um die Themen Lackierung, Restaurierung,
-              Beratung und Reparatur sein.
+              Partner an.
             </p>
           </div>
         </div>
       </div>
     </section>
-
-    
 
     <!-- CONTAINER TEAM -->
     <section
@@ -450,7 +432,7 @@
               <div data-toggle="lightbox" data-gallery="gallery-porsche-targa" data-remote="assets/images/galleries/lackierung_porsche_targa/gallery_012.jpg"></div>
               <div data-toggle="lightbox" data-gallery="gallery-porsche-targa" data-remote="assets/images/galleries/lackierung_porsche_targa/gallery_013.jpg"></div>
               <div class="slide-text">
-                <h2 class="labeled-black">Restaurierung Porsche 356</h2>
+                <h2 class="labeled-black">Umbau Porsche 964 auf F-Modell</h2>
                 <p>Galerie öffnen</p>
               </div>
             </a>
